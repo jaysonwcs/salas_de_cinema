@@ -142,7 +142,7 @@ GEM
       rspec-core (~> 2.13.0)
       rspec-expectations (~> 2.13.0)
       rspec-mocks (~> 2.13.0)
-    ruby-debug-ide (0.4.22)
+    ruby-debug-ide (0.4.23.beta1)
       rake (>= 0.8.1)
     rubyzip (0.9.9)
     sass (3.3.8)
@@ -211,7 +211,7 @@ DEPENDENCIES
   rails (= 4.0.4)
   rails_12factor (= 0.0.2)
   rspec-rails (= 2.13.1)
-  ruby-debug-ide
+  ruby-debug-ide (= 0.4.23.beta1)
   sass-rails (= 4.0.1)
   sdoc (= 0.3.20)
   selenium-webdriver (= 2.35.1)

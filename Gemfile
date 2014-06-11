@@ -13,7 +13,7 @@ group :development, :test do
   gem 'guard-spork', '1.5.0'
   gem 'childprocess', '0.3.6'
   gem 'debugger'
-  gem 'ruby-debug-ide'
+  gem 'ruby-debug-ide', '0.4.23.beta1'
 end
 
 group :test do
